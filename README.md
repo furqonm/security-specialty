@@ -20,12 +20,12 @@ _[DISCLAIMER] Links dan materials yang ada disini dipergunakan untuk tambahan ma
 ### 3. Exam Readiness
 - [Exam Readiness: AWS Certified Security - Specialty](https://explore.skillbuilder.aws/learn/course/external/view/elearning/97/exam-readiness-aws-certified-security-specialty)
 
-    > E-learning untuk latihan persiapan ujian Solutions Architect Associate dari AWS. Materi berisikan eksplorasi topik yang keluar di ujian dan beberapa contoh soal ujian. Untuk mengakses bisa mendaftar menggunakan akun Amazon kita, bukan akun AWS.
+    > E-learning untuk latihan persiapan ujian AWS Certified Security - Specialty. Materi berisikan eksplorasi topik yang keluar di ujian dan beberapa contoh soal ujian. Untuk mengakses bisa mendaftar menggunakan akun Amazon kita, bukan akun AWS.
 
 - [AWS Certified Security - Specialty Official Practice Question Set (SCS-C02 - English)](https://explore.skillbuilder.aws/learn/course/external/view/elearning/15222/aws-certified-security-specialty-official-practice-question-set-scs-c02-english)
 - [AWS Certified Security - Specialty Official Practice Question Set (SCS-C01 - English)](https://explore.skillbuilder.aws/learn/course/external/view/elearning/12473/aws-certified-security-specialty-official-practice-question-set-scs-c01-english)
 
-    > Simulasi ujian via BenchPrep untuk mengenali format pertanyaan ujian Solutions Architect Associate nanti. Untuk mencoba bisa mendaftar menggunakan akun Amazon kita, bukan akun AWS.
+    > Simulasi ujian via BenchPrep untuk mengenali format pertanyaan ujian AWS Certified Security - Specialty nanti. Untuk mencoba bisa mendaftar menggunakan akun Amazon kita, bukan akun AWS.
 
 ## Hands-on Labs
 ### 1. Video Demo Lab
